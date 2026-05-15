@@ -1,6 +1,6 @@
 # NemoMapPy
 
-This is a sample program for the NemoSuite-NemoMapPy Program on [http://bioresearch.css.uwb.edu:9443/](https://bioresearch.uwb.edu/biores/NemoSuite/): NemoMapPy
+This is a sample program for the NemoSuite-NemoMapPy Program on [NemoSuite](https://bioresearch.uwb.edu/biores/NemoSuite/): [NemoMapPy](https://bioresearch.uwb.edu:9443/)
 
 A port of the motif-centric netowrk motif discovery tool NemoMap to Python.
 
